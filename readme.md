@@ -1,13 +1,15 @@
+Hi! 
+I'm Akash, a grad student in Artificial Intelligence (CS) at Northwestern. 
 
+* My areas of expertise include Data Science, Neural Networks, DOE, Optimization methods, ....
+* I also have significant exposure across: 
+* Check out my portfolio [here](), detailing my projects and internships. Do reach out to me by email or on Linkedin.
 
-Hello! I'm Akash, a grad student in Artificial Intelligence (CS) at Northwestern. 
+### Recent News and Updates:
+* Completed the Data Science Internship @ NU Retail Analytics Council, with 2 MNC clients and submitted the research article for publication.
+* Finished and deployed advanced neural models, working for Home Depot and Thomson Reuters as a part of my capstone / industry practicum work.
+* Expanded high-end projects across Cycle-GANs, BERT and Multi-modal apps (iOS, Autonomous Driving, etc.) and delivered for clients and research labs in past year.
 
-
-
-### Recent News and updates:
-* Working as a Data Science Intern at Retail Analytics Council for two retail (MNC) clients, and expanding my work to publication.
-* Completed practicum / capstones with Home Depot and Thomson Reuters in the past semester.
-* Designed high-end projects expanding on Cycle-GAN, BERT and Multimodal applications and scaled successfully to pipelines (AWS/Kube/iOS/etc.)
 * Published the research paper "" in JARDCS.
 
 <!--
