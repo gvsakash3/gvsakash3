@@ -1,6 +1,6 @@
 
 
-Hello! I'm Akash, a graduate 
+Hello! I'm Akash, a grad student in Artificial Intelligence (CS) at Northwestern. 
 
 
 
@@ -9,6 +9,10 @@ Hello! I'm Akash, a graduate
 * Completed practicum / capstones with Home Depot and Thomson Reuters in the past semester.
 * Designed high-end projects expanding on Cycle-GAN, BERT and Multimodal applications and scaled successfully to pipelines (AWS/Kube/iOS/etc.)
 * Published the research paper "" in JARDCS.
+
+<!--
+[![My github stats](https://github-readme-stats.vercel.app/api?username=gvsakash)](https://github.com/anuraghazra/github-readme-stats)
+!-->
 
 ### 
 <!--
