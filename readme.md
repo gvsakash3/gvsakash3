@@ -1,9 +1,10 @@
 Hi! 
-I'm Akash, a grad student in Artificial Intelligence (CS) at Northwestern. 
+I'm Akash, a AI grad student at Northwestern in the Computer. 
 
 * My areas of expertise include Data Science, Neural Networks, DOE, Optimization methods, ....
 * I also have significant exposure across: 
-* Check out my portfolio [here](), detailing my projects and internships. Do reach out to me by email or on Linkedin.
+* Highly skilled 
+* Check out my portfolio [here](), detailing my projects and internships. Do reach out to me by [email](gvsakash@u.northwestern.edu) or [LinkedIn](likedin.com/in/gvsakash).
 
 ### Recent News and Updates:
 * Completed the Data Science Internship @ NU Retail Analytics Council, with 2 MNC clients and submitted the research article for publication.
@@ -11,12 +12,19 @@ I'm Akash, a grad student in Artificial Intelligence (CS) at Northwestern.
 * Expanded high-end projects across Cycle-GANs, BERT and Multi-modal apps (iOS, Autonomous Driving, etc.) and delivered for clients and research labs in past year.
 
 * Published the research paper "" in JARDCS.
+<!--
+I'm a Machine Learning PhD student at Georgia Tech advised by James Hays and Judy Hoffman. My interests lie in computer vision, primarily in object recognition. I received my B.S. in Computer Science and my B.A. in Cognitive Science from the University of Georgia.
+This summer and the last I interned at Argo AI, where I am helping to solve some of the challenging problems for self-driving cars. In summer 2018, I worked at UC Berkeley with Fisher Yu and colleagues to develop Scalabel, a tool to help accelerate the annotation of object tracks in videos.
+In my spare time, I plan and run Dungeons & Dragons adventures, read science fiction, play piano, and play co-op games with my friends.
+--!>
+
+
 
 <!--
 [![My github stats](https://github-readme-stats.vercel.app/api?username=gvsakash)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 
-### 
+
 <!--
 **gvsakash/gvsakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
