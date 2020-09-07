@@ -4,7 +4,7 @@ I'm Akash, a AI grad student at Northwestern in the Computer.
 * My areas of expertise include Data Science, Neural Networks, DOE, Optimization methods, ....
 * I also have significant exposure across: 
 * Highly skilled 
-* Check out my portfolio [here](), detailing my projects and internships. Do reach out to me by [email](gvsakash@u.northwestern.edu) or [LinkedIn](likedin.com/in/gvsakash).
+* Check out my portfolio [here](https://github.com/gvsakash/gvsakash/wiki), detailing my projects and internships. Do reach out to me by [email](gvsakash@u.northwestern.edu) or [LinkedIn](likedin.com/in/gvsakash).
 
 ### Recent News and Updates:
 * Completed the Data Science Internship @ NU Retail Analytics Council, with 2 MNC clients and submitted the research article for publication.
