@@ -1,6 +1,8 @@
 Hi! 
 I'm Akash, a AI grad student at Northwestern in the Computer. 
 
+**{WIP}**
+
 * My areas of expertise include Data Science, Neural Networks, DOE, Optimization methods, ....
 * I also have significant exposure across: 
 * Highly skilled 
