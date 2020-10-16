@@ -4,7 +4,7 @@ I'm a Computer Science graduate specializing in AI , at Northwestern University.
 
 I bring deep technical expertise & hands-on experience in Data Science/Analytics, Software Dev, Neural Nets and Robotics; having explored many specialized projects across various domains. I've collaborated with some of the best researchers , professionals and clientele in past few years to deliver highly tailored data-driven solutions, bridging the gap from research to effective real-world deployment. 
 
-In breife, I've worked To know more, check out my **Portfolio [here](https://github.com/gvsakash/gvsakash/blob/master/projects.md)**. 
+In short, I've worked as a Data Scientist, Software Developer & ML/Data Engineer. To know more, check out my **Portfolio [here](https://github.com/gvsakash/gvsakash/blob/master/projects.md)**. 
 
 I'm best reached via [email](mailto:gvsakash@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/gvsakash). Always open for interesting chats and collaboration!
 
