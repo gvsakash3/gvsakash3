@@ -11,6 +11,8 @@ I've collaborated with some of the best researchers , professionals and clientel
  
 I'm best reached via [email](gvsakash@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/gvsakash). Always up for interesting chats and collaboration!
 
+<img src="https://github.com/gvsakash/cyc-gan/blob/master/files/img/m2p.png" width="200"><img src="https://github.com/gvsakash/cyc-gan/blob/master/files/img/m2p.png" width="200"><img src="https://github.com/gvsakash/cyc-gan/blob/master/files/img/m2p.png" width="200"> <img src="https://github.com/gvsakash/cyc-gan/blob/master/files/img/m2p.png" width="200"> 
+
 <!--
 **gvsakash/gvsakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![My github stats](https://github-readme-stats.vercel.app/api?username=gvsakash)](https://github.com/gvsakash/github-readme-stats)
