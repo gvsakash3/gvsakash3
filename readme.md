@@ -5,11 +5,11 @@ I'm a CS graduate (AI Specialization), at Northwestern University. My primary in
 I've collaborated with some of the best researchers , professionals and clientele in past few years to deliver highly tailored data-driven solutions, bridging the gap from research to effective real-world deployment. To know more, check out my Portfolio [here](https://github.com/gvsakash/gvsakash/blob/master/projects.md).
 
 ##### News & Updates: 
-* 💻 Returned to work with [The Home Depot](https://corporate.homedepot.com) as a (Capstone) Data Scientist, expanding from my prior Spring Practicum. 
+* 💻 Returned to work with [The Home Depot](https://corporate.homedepot.com) as a (Capstone) Data Scientist, expanding from my prior [Spring Practicum](https://github.com/gvsakash/thd-pract). 
 * 🏢 Prior to HD, I've worked with the RAC Lab, Thomson Reuters, IIT Hyderabad, L&T and TCS.
 * 🏐 In my spare time, I explore various Art [styles](https://www.instagram.com/gvsakash), Cooking, Volleyball and read Science Novels/Manga.  
  
-I'm best reached via [email](gvsakash@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/gvsakash). Always up for interesting chats and collaboration!
+I'm best reached via [email](mail-to:gvsakash@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/gvsakash). Always up for interesting chats and collaboration!
 
 <img src="https://github.com/gvsakash/cyc-gan/blob/master/files/img/m2p.png" width="200"><img src="https://github.com/gvsakash/cyc-gan/blob/master/files/img/m2p.png" width="200"><img src="https://github.com/gvsakash/cyc-gan/blob/master/files/img/m2p.png" width="200"> <img src="https://github.com/gvsakash/cyc-gan/blob/master/files/img/m2p.png" width="200"> 
 
