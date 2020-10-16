@@ -1,4 +1,4 @@
-### Hi! I'm Akash 👋
+### Hi! I'm Akash 🦉
 
 I'm a Computer Science graduate specializing in AI , at Northwestern University. My primary interest lies in expanding my diverse repertoire to galvanize decision strategy and generate actionable insights. I bring deep technical expertise & hands-on experience in Data Science/Analytics, Software Dev, Neural Nets and Robotics; having explored many specialized projects across various domains. 
 
