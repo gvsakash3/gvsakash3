@@ -13,9 +13,9 @@ I'm best reached via [email](mail-to:gvsakash@u.northwestern.edu) or [LinkedIn](
  
 [<img src="https://github.com/gvsakash/gvsakash/blob/master/img/gan.png" height="150" width="200">](https://github.com/gvsakash/cyc-gan)
 [<img src="https://github.com/gvsakash/gvsakash/blob/master/img/auto.gif" height="150" width="200">](https://github.com/gvsakash/auto)
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/iit.jpg" height="150" width="200">](https://github.com/gvsakash/ann-design)
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="200">](https://github.com/gvsakash/nlp)
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="200">](https://github.com/gvsakash/cyc-gan)
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/iit.jpg" height="150" width="150">](https://github.com/gvsakash/ann-design)
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="150">](https://github.com/gvsakash/nlp)
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/chicago.png" height="150" width="150">](https://github.com/gvsakash/cyc-gan)
 
 <!--
 **gvsakash/gvsakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
