@@ -11,7 +11,11 @@ I'm best reached via [email](mail-to:gvsakash@u.northwestern.edu) or [LinkedIn](
 * 🏢 Prior to HD, I've interned / worked with Retail Analytics Council Lab, [Thomson Reuters](), [IIT Hyderabad](), [L&T]() and [TCS]().
 * 🏐 In my spare time, I explore various Art [styles](https://www.instagram.com/gvsakash), Cooking, Volleyball and read Science Novels/Manga.  
  
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/gan.png" height="150" width="200">](https://github.com/gvsakash/cyc-gan)<img src="https://github.com/gvsakash/gvsakash/blob/master/img/auto.gif" height="150"><img src="https://github.com/gvsakash/gvsakash/blob/master/img/iit.jpg" height="150" width="200"><img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="200"><img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="200">
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/gan.png" height="150" width="200">](https://github.com/gvsakash/cyc-gan)
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/auto.gif" height="150" width="200">](https://github.com/gvsakash/auto)
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/iit.jpg" height="150" width="200">](https://github.com/gvsakash/ann-design)
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="200">](https://github.com/gvsakash/nlp)
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="200">](https://github.com/gvsakash/cyc-gan)
 
 <!--
 **gvsakash/gvsakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
