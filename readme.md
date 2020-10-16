@@ -3,7 +3,7 @@
 
 I'm a Computer Science graduate specializing in AI , at Northwestern University. My primary interest lies in expanding my diverse repertoire to galvanize decision strategy and generate actionable insights. 
 
-I bring deep technical expertise & hands-on experience in Data Science / Analytics, Software Dev, Neural Nets and Robotics; having explored 20+ specialized projects across various domains. I've collaborated with some of the leading researchers, professionals and clientele in past few years and delivered highly tailored data-driven solutions, bridging the gap from research to effective real-world deployment. 
+I bring deep technical expertise & hands-on experience in Data Science / Analytics, Software Dev, Neural Nets and Robotics; having explored 20+ specialized projects across various domains. I've collaborated with some of the leading researchers, professionals and clientele in past few years to deliver highly tailored data-driven solutions, bridging the gap from research to effective real-world deployment. 
 
 In short, I've worked as a Data Scientist, Software Developer & ML/Data Engineer. To know more, check out my **[Portfolio here](https://github.com/gvsakash/gvsakash/blob/master/projects.md)**. 
 
@@ -12,7 +12,7 @@ I'm best reached via [email](mailto:gvsakash@u.northwestern.edu) or [LinkedIn](h
 ##### News & Updates: 
 * 💻 Returned to work with [The Home Depot](https://corporate.homedepot.com) as a *Data Scientist(Capstone)*, expanding on my prior [Practicum](https://github.com/gvsakash/thd-pract) in Spring. 
 * 🏢 My prior internhsips / work spans across [NU-RAC Lab](https://rac.medill.northwestern.edu/rac-ai-lab/), [Thomson Reuters](https://innovation.thomsonreuters.com/en/labs.html), [IIT Hyderabad](https://github.com/gvsakash/ann-design), [L&T](https://www.kobelco.co.jp/english/welding/) and [TCS](https://cloud.google.com/dialogflow/docs/).
-<!--* 🤔 Most of my current work has gravitated towards Tech/Product Analytics, A/B Tests (DOE/Model Agnostic Methods), Deep Learning and Deployment.-->
+* 🤔 Most of my current work has gravitated towards Tech/Product Analytics, A/B Tests (DOE/Model Agnostic Methods), Deep Learning and Deployment.
 * 🏐 In my spare time, I explore various Art [styles](https://www.instagram.com/gvsakash), Cooking, Volleyball and read Science Novels/Manga.  
 
  
