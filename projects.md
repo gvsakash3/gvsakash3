@@ -1,6 +1,7 @@
-## Data Science & Software Dev. Projects
+## Technical Portfolio (Data Science & Software Dev)
 
-- [x] [Cycle Consistent Style Transfer](https://github.com/govindarajula/cyc-gan/): 
+
+#### [Cycle Consistent Style Transfer](https://github.com/govindarajula/cyc-gan/): 
 * Deployed Cycle-GAN with modified convolution layers, loss functions using PyTorch upon Kubeflow. Scaled to Linux-based DL AMI on AWS and achieved improved resolution and de-hazing.
 * Designed a version harnessing lesser compute power. Submitted a test version of TF.js upon Swift and proposed suggested directions & publication ideas.
 * Explored VC2 applications, for parallel voice conversions and studied fine-tuning of layers. Presented white paper to Prof. Liu and two seminar sessions. 
