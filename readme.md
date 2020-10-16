@@ -7,8 +7,8 @@ I bring deep technical expertise & hands-on experience in Data Science/Analytics
 To know more, check out my **Portfolio [here](https://github.com/gvsakash/gvsakash/blob/master/projects.md)**. I'm best reached via [email](mailto:gvsakash@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/gvsakash). Always open for interesting chats and collaboration!
 
 ##### News & Updates: 
-* 💻 Returned to work with [The Home Depot](https://corporate.homedepot.com) as a (Capstone) Data Scientist, expanding from my prior [Spring Practicum](https://github.com/gvsakash/thd-pract). 
-* 🏢 Prior to HD, I've interned / worked with Retail Analytics Council Lab, [Thomson Reuters](), [IIT Hyderabad](), [L&T]() and [TCS]().
+* 💻 Returned to work with [The Home Depot](https://corporate.homedepot.com) as a *Data Scientist(Capstone)*, expanding on my prior [Practicum](https://github.com/gvsakash/thd-pract) in Spring. 
+* 🏢 My prior internhsips / work spans across [NU-RAC Lab](https://rac.medill.northwestern.edu/rac-ai-lab/), [Thomson Reuters](https://innovation.thomsonreuters.com/en/labs.html), [IIT Hyderabad](https://github.com/gvsakash/ann-design), [L&T](https://www.kobelco.co.jp/english/welding/) and [TCS](https://cloud.google.com/dialogflow/docs/).
 * 🏐 In my spare time, I explore various Art [styles](https://www.instagram.com/gvsakash), Cooking, Volleyball and read Science Novels/Manga.  
  
 [<img src="https://github.com/gvsakash/gvsakash/blob/master/img/gan.png" height="150" width="150">](https://github.com/gvsakash/cyc-gan)
