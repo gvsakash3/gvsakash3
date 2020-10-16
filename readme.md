@@ -9,7 +9,7 @@ I've collaborated with some of the best researchers , professionals and clientel
 * 🏢 Prior to HD, I've worked with the RAC Lab, Thomson Reuters, IIT Hyderabad, L&T and TCS.
 * 🏐 In my spare time, I explore various Art [styles](https://www.instagram.com/gvsakash), Cooking, Volleyball and read Science Novels/Manga.  
  
-I'm best reached via [email](gvsakash@u.northwestern.edu) and [LinkedIn](linkedin.com/in/gvsakash). Always up for interesting chats and collaboration!
+I'm best reached via [email](gvsakash@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/gvsakash). Always up for interesting chats and collaboration!
 
 <!--
 **gvsakash/gvsakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
