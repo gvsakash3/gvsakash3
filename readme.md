@@ -10,7 +10,7 @@ In short, I've worked as a Data Scientist, Software Developer & ML / Data Engine
 I'm best reached via [email](mailto:gvsakash@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/gvsakash). Always open for interesting chats and collaboration!
 
 ##### News & Updates: 
-* 💻 Returned to work with [The Home Depot](https://corporate.homedepot.com) as a *Data Scientist(Capstone)*, expanding on my prior [Practicum](https://github.com/gvsakash/thd-pract) in Spring. 
+* 💻 Returned to work with [The Home Depot](https://corporate.homedepot.com) as a ***Data Scientist** (Capstone)*, expanding on my prior [Practicum](https://github.com/gvsakash/thd-pract) in Spring. 
 * 🏢 My prior internships / work include [RAC (NU-AI Lab)](https://rac.medill.northwestern.edu/rac-ai-lab/), [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html), [IIT Hyderabad](https://github.com/gvsakash/ann-design), [L&T](https://www.kobelco.co.jp/english/welding/) and [TCS](https://cloud.google.com/dialogflow/docs/).
 * 🤔 Most of my current work has gravitated towards Tech/Product Analytics, A/B Tests (DOE/Model Agnostic Methods), Deep Learning and Deployment.
 * 🏐 In my spare time, I explore various Art [styles](https://www.instagram.com/gvsakash), Cooking, Volleyball and read Science Novels/Manga.  
