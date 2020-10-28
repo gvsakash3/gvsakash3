@@ -1,7 +1,7 @@
 ### Hey! Akash here. 🦉
-<!--
+
 * Website: [gvsakash.github.io](https://gvsakash.github.io)
--->
+
 
 I'm a CS grad student specializing in Artificial Intelligence, at Northwestern University. My primary interest lies in expanding my diverse repertoire to galvanize decision strategy and generate actionable insights. 
 
