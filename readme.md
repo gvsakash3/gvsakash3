@@ -3,7 +3,7 @@
 * Website: [gvsakash.github.io](https://gvsakash.github.io)
 
 
-I'm a CS grad student specializing in Artificial Intelligence, at Northwestern University. My primary interest lies in expanding my diverse repertoire to galvanize decision strategy and generate actionable insights. 
+I'm a CS grad student specializing in Artificial Intelligence, at Northwestern University. My primary interest lies in expanding my repertoire to galvanize decision strategy and generate actionable insights. 
 
 I bring deep technical expertise & hands-on experience in Data Science & Analytics, Software Dev, DL and Robotics; having explored many specialized projects across various domains. I've collaborated with some of the leading researchers, professionals and best clientele in past few years to deliver highly tailored data-driven solutions, bridging the gap from research to effective real-world deployment. 
 
