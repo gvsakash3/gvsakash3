@@ -20,9 +20,10 @@ I'm best reached via [email](mailto:gvsakash@icloud.com) or [LinkedIn](https://l
  
 [<img src="https://github.com/gvsakash/gvsakash/blob/master/img/gan.png" height="150" width="150">](https://github.com/gvsakash/cycle-gan)
 [<img src="https://github.com/gvsakash/gvsakash/blob/master/img/auto.gif" height="150" width="180">](https://github.com/gvsakash/auto)
+[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/sales.png" height="150" width="150">](https://github.com/gvsakash/aws-sales)
 [<img src="https://github.com/gvsakash/gvsakash/blob/master/img/iit.jpg" height="150" width="150">](https://github.com/gvsakash/ann-design)
 [<img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="150">](https://github.com/gvsakash/nlp)
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/sales.png" height="150" width="150">](https://github.com/gvsakash/aws-sales/blob/master/my-paper.pdf)
+
 
 
 <!--
