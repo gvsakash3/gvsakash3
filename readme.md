@@ -2,9 +2,9 @@
 
 I'm a CS grad student specializing in Artificial Intelligence, at Northwestern University. My primary interest lies in expanding my repertoire to galvanize decision strategy and generate actionable insights. 
 
-I bring deep technical expertise & hands-on experience in Data Science & Analytics, Software Development, DL and Robotics; having explored specialized projects across various domains. I've collaborated with some of the leading researchers, professionals and best clientele in past few years to deliver highly tailored data-driven solutions, and bridged the gap from research to effective real-world deployment. 
+I bring deep technical expertise & hands-on experience in Data Science & Analytics, Software Development, DL and Robotics; having explored specialized projects across various domains. I've collaborated with some of the leading researchers, professionals and various clientele in past few years to deliver highly tailored data-driven solutions, bridging the gap from research to effective real-world deployment. 
 
-In short, I've worked as a Data Scientist, Software Developer & ML / Data Engineer. To know more, check out my **[Portfolio](https://gvsakash.github.io)** here. 
+In short, I've worked as a Data Scientist, Software Developer & ML/Data Engineer. To know more, check out my **[webpage](https://gvsakash.github.io)**. 
 
 I'm best reached via [email](mailto:gvsakash@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/gvsakash). Always open for interesting chats and collaboration!
 <!--
