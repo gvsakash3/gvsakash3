@@ -15,11 +15,11 @@ I'm best reached via [email](mailto:gvsakash@u.northwestern.edu) or [LinkedIn](h
 * 🏐 In my spare time, I explore various Art [styles](https://www.instagram.com/gvsakash), Cooking, Volleyball and read Science Novels / Manga.  
 -->
  
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/gan.png" height="150" width="150">](https://github.com/gvsakash/cycle-gan)
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/auto.gif" height="150" width="180">](https://github.com/gvsakash/auto)
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/sales.png" height="150" width="150">](https://github.com/gvsakash/aws-sales)
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/iit.jpg" height="150" width="150">](https://github.com/gvsakash/ann-design)
-[<img src="https://github.com/gvsakash/gvsakash/blob/master/img/bert.png" height="150" width="150">](https://github.com/gvsakash/nlp)
+[<img src="gan.png" height="150" width="150">](https://github.com/gvsakash/cycle-gan)
+[<img src="auto.gif" height="150" width="180">](https://github.com/gvsakash/auto)
+[<img src="sales.png" height="150" width="150">](https://github.com/gvsakash/aws-sales)
+[<img src="iit.jpg" height="150" width="150">](https://github.com/gvsakash/ann-design)
+[<img src="bert.png" height="150" width="150">](https://github.com/gvsakash/nlp)
 
 
 
